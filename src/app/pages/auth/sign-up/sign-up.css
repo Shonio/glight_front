@@ -1,0 +1,53 @@
+
+.server-error {
+	height: 42px;
+	margin-bottom: 20px;
+}
+.server-error p {
+	padding: 10px;
+	background: #ff9999;
+	border-radius: 8px;
+	font-weight: bold;
+	margin-top: 0;
+}
+
+.signUp {
+	width: 484px;
+	margin: 0 auto;
+	margin-top: 90px;
+}
+.sighUp__subtitle {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 24px;
+}
+.btnWrap {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	gap: 40px;
+}
+.btnNext {
+	width: 100%;
+	font-size: 15px;
+	line-height: 26px;
+	color: #FFFFFF;
+	background: #00AB55;
+	text-transform: capitalize;
+	padding: 11px 0;
+	border: none;
+	border-radius: 8px;
+}
+.btnBack {
+	font-size: 15px;
+	line-height: 26px;
+	color: #00AB55;
+	background: none;
+	text-transform: capitalize;
+	padding: 11px 0;
+	border: none;
+	margin-left: 20px;
+	padding-left: 20px;
+	background: url(/public/assets/images/arrow-right-green.svg) no-repeat center left;
+}

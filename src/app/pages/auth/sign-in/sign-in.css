@@ -1,0 +1,35 @@
+
+.signIn {
+	margin-top: 90px;
+}
+.sighIn__wrap {
+	max-width: 484px;
+	margin: 0 auto;
+}
+.signUp__wrap {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 40px;
+}
+.form__rememberMe {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 32px;
+}
+.form__forgot {
+	color: #637381;
+	text-decoration: none;
+}
+.link_register {
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 24px;
+	text-decoration: none;
+	color: #00AB55;
+}
+
+.link_sign_out {
+	text-decoration: none;
+}

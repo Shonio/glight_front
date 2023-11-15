@@ -1,0 +1,68 @@
+{
+  "powerPlants": [
+    {
+      "id":1,
+      "title":"СЭС «Капчагайская ГЭС»",
+      "location":"Конаев",
+      "powerStation":3,
+      "availablePower":2,
+      "price":30
+    },
+    {
+      "id":2,
+      "title":"СЭС «Капшагай»",
+      "location":"Капшагай",
+      "powerStation":4,
+      "availablePower":3,
+      "price":28
+    },
+    {
+      "id":3,
+      "title":"СЭС «Атбасарская ГЭС»",
+      "location":"Атбасар",
+      "powerStation":2,
+      "availablePower":1,
+      "price":32
+    },
+    {
+      "id":4,
+      "title":"СЭС «Шымкентская ГЭС»",
+      "location":"Шымкент",
+      "powerStation":5,
+      "availablePower":4,
+      "price":29
+    },
+    {
+      "id":5,
+      "title":"СЭС «Усть-Каменогорская ГЭС»",
+      "location":"Усть-Каменогорск",
+      "powerStation":3,
+      "availablePower":2,
+      "price":31
+    },
+    {
+      "id":6,
+      "title":"СЭС «Западноказахстанская ГЭС»",
+      "location":"Уральск",
+      "powerStation":4,
+      "availablePower":3,
+      "price":30
+    },
+    {
+      "id":7,
+      "title":"СЭС «Павлодарская ГЭС»",
+      "location":"Павлодар",
+      "powerStation":3,
+      "availablePower":2,
+      "price":29
+    },
+    {
+      "id":8,
+      "title":"СЭС «Карагандинская ГЭС»",
+      "location":"Караганда",
+      "powerStation":4,
+      "availablePower":3,
+      "price":31
+    }
+  ]
+}

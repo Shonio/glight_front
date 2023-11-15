@@ -1,0 +1,10 @@
+.purchaseHistory__blocks {
+	background: #FFFFFF;
+	border-radius: 16px;
+	height: 416px;
+	overflow: hidden;
+}
+.purchaseHistory__btn {
+	padding: 16px;
+	border-top: 1px solid rgba(145, 158, 171, 0.24);
+}

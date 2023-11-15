@@ -1,0 +1,77 @@
+{
+  "auth_users": {
+    "value": [
+      {
+        "uuid": "XgbuVEXBU5gtSKdbQRP1Zbbby1i1",
+        "password": "admin",
+        "role": "admin",
+        "created": "2019-03-12T12:00:00.000Z",
+        "updated": "2019-03-12T12:00:00.000Z",
+        "status": "active",
+        "info": {
+          "phone": "77014511844",
+          "name": "Ахрам Оспанов",
+          "email": "ahram1992@gmail.com",
+          "location": "Алматы",
+          "personalAccount": "123456789"
+        },
+        "data" : {
+          "balance": "0",
+          "allowedEnergy": "1200"
+        },
+        "transactions": [
+          {
+            "id": 5114,
+            "date": "2019-03-12T12:00:00.000Z",
+            "type": "DEPOSIT",
+            "amount": "1000",
+            "status": "SUCCESS",
+            "products": [
+              {
+                "id": 1,
+                "amount": "10",
+                "price": "1000",
+                "type": "MONTHLY"
+              },
+              {
+                "id": 2,
+                "amount": "5",
+                "price": "600",
+                "type": "ONCE"
+              },
+              {
+                "id": 3,
+                "amount": "25",
+                "price": "2500",
+                "type": "ONCE"
+              }
+            ]
+          }
+        ],
+        "subscriptions": [
+          {
+            "id": 10,
+            "type": "MONTHLY",
+            "productId": 1,
+            "amount": "10",
+            "price": "1000"
+          },
+          {
+            "id": 11,
+            "type": "ONCE",
+            "productId": 2,
+            "amount": "5",
+            "price": "600"
+          },
+          {
+            "id": 12,
+            "type": "ONCE",
+            "productId": 3,
+            "amount": "25",
+            "price": "2500"
+          }
+        ]
+      }
+    ]
+  }
+}

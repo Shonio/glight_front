@@ -1,0 +1,25 @@
+
+.writeOffsCard {
+	background: #FFFFFF;
+	border-radius: 16px;
+	padding: 24px;
+	display: grid;
+	align-items: center;
+	grid-template-columns: 2fr 1fr 1fr 1fr;
+	margin-bottom: 12px;
+}
+.writeOffsCard__text {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 22px;
+	color: #212B36;
+}
+.where {
+	font-weight: 700;
+	font-size: 12px;
+	line-height: 20px;
+	padding: 2px 8px;
+	border-radius: 6px;
+	max-width: 80px;
+	margin: 0 auto;
+}

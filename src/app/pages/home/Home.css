@@ -1,0 +1,21 @@
+
+.home__promo {
+	display: flex;
+	justify-content: space-between;
+	background: rgba(0, 171, 85, 0.08);
+	border-radius: 16px;
+	padding: 40px 90px;
+	margin-bottom: 24px;
+}
+.home__info {
+	display: flex;
+	flex-direction: column;
+}
+.home__subtitle {
+	margin-top: auto;
+	display: flex;
+}
+.home__subtitle div {
+	max-width: 264px;
+	margin-right: 40px;
+}

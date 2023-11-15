@@ -1,0 +1,11 @@
+
+.cardPurchaseHistory__header {
+	background: #F4F6F8;
+	padding: 12px 16px;
+}
+.cardPurchaseHistory__info {
+	padding: 16px 12px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
